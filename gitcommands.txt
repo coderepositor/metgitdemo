@@ -1,0 +1,17 @@
+git --version : It will tell us the git current version installed on my pc
+
+git status - it lists all  the modified files which are ready to be added to the local repository
+
+git config --global user.email "ilearniexcel@gmail.com"
+git config --global user.name "coderepositor"
+
+git add <filename> : It will add the file into the staging area
+
+git add * : It will move all the files from working directory to staging area
+
+git add -A: It will move all the untracked files
+
+git rm -cached <filename> : It will unstage the file from staging area
+
+git rm --cached * : It will unstage all the files from staging area to working directory
+
