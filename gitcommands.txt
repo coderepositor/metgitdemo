@@ -15,3 +15,8 @@ git rm -cached <filename> : It will unstage the file from staging area
 
 git rm --cached * : It will unstage all the files from staging area to working directory
 
+git commit -m "Initial version": It will commit all the files from staging area to the local repository
+
+git log : it will show all the commit logs made for the working directory
+
+
