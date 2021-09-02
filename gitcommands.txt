@@ -29,4 +29,7 @@ git show <commit id>: It will show the difference between your latest version vs
 
 git diff --staged: Difference between staged file and the current unstaged file
 
+git reset <commit id>
+
+git reset -hard <commitid>
 
