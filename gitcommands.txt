@@ -33,3 +33,12 @@ git reset <commit id>
 
 git reset -hard <commitid>
 
+git branch : List down all the branches
+
+git branch <branchname> : crates the branch with the given name
+
+git checkout <branchname> will switched to the branch
+
+git diff master : It will compare the files between current branch and master
+
+
